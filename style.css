@@ -1,0 +1,93 @@
+section ul {
+	margin: 10px;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	float: left;
+	list-style-type: none;
+	border: 2px solid rgb(236, 143, 143);
+	border-radius: 5%;
+	font-family: "Helvetica Neue", HelveticaNeue, Helvetica, "Noto Sans", Roboto, Arial, "Hiragino Sans", "Hiragino Kaku Gothic Pro", "30D230E930AE30CE89D230B4   Pro W3", "Noto Sans CJK JP", Osaka, Meiryo, "30E130A430EA30AA", "MS PGothic",
+		"FF2DFF33   FF3030B430B730C330AF", "Hiragino Sans GB", "Arial Unicode MS", sans-serif;
+	border: 1px solid;
+	box-shadow: 5px 4px #caf5ae;
+}
+
+section ul a {
+	text-decoration: none;
+}
+
+a {
+	font-weight: bold;
+	padding: 2px;
+	margin: 5px;
+}
+
+b {
+	font-weight: normal;
+}
+
+nav a:hover,
+nav a:active {
+	font-size: 150%;
+}
+
+.navbar {
+	display: flex;
+	align-items: center;
+	padding: 20px;
+	background-color: #a78927;
+	border-bottom-left-radius: 25px;
+	border-bottom-right-radius: 25px;
+}
+
+.container {
+	max-width: 1300px;
+	margin: auto;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	border: none;
+	display: inline-block;
+	margin-right: 20px;
+	box-shadow: none;
+}
+
+.footer {
+	background-color: #c6f777;
+	color: gray;
+	font-size: 16px;
+	padding: auto;
+	text-align: center;
+	font-size: medium;
+	clear: both;
+	position: relative;
+	height: 25px;
+}
+
+.baris-1 {
+	display: block;
+	padding-top: 10px;
+	text-align: center;
+}
+.baris-2 {
+	display: block;
+	padding-top: 10px;
+}
+.baris-3 {
+	display: block;
+	padding-top: 10px;
+}
+.baris-4 {
+	display: block;
+	padding-top: 10px;
+}
+a:visited {
+	color: black;
+	background-color: transparent;
+	text-decoration: none;
+}
